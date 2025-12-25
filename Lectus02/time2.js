@@ -7,4 +7,4 @@ const options={
 };
 const formattedDate = 
 registrationDate.toLocaleDateString('th-TH',options);
-console.log(`วันที่ลงทะเบียน: ${formattedDate}`); // Output: วันที่ลงทะเบียน: 15 สิงหาคม 2023
+console.log(`วันที่ลงทะเบี555ยน: ${formattedDate}`); // Output: วันที่ลงทะเบียน: 15 สิงหาคม 2023
